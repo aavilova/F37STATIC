@@ -10,6 +10,7 @@
     justify-content: space-between;
   }
   .speeds__container > .abt > h1{
+    font-family: "Roboto Mono";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;

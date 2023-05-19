@@ -141,6 +141,7 @@ span{
   border-bottom: 3px solid #49F3FF;
 }
 .output > .abt > h1{
+  font-family: "Roboto Mono";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -174,6 +175,7 @@ span{
   justify-content: center;
 }
 .mod > div > h3{
+    font-family: "Roboto Mono";
   margin: 0;
   font-style: normal;
   font-weight: 400;
@@ -183,6 +185,7 @@ span{
 }
 
 .else > p{
+    font-family: "Roboto Mono";
   margin: 0;
   padding: 8px;
   width: 418px;
@@ -195,6 +198,7 @@ span{
 }
 
 .else > h3{
+    font-family: "Roboto Mono";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -251,6 +255,7 @@ span{
     justify-content: space-between;
   }
   .sizes__container > .abt > h1{
+    font-family: "Roboto Mono";
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
