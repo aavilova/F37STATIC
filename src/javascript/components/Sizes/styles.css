@@ -1,10 +1,11 @@
-.sizes__container{
+/* .sizes__container{
     border: 3px solid #49F3FF;
     width: 705px;
     height: 403px;
     margin-bottom: 13px;
   }
   .sizes__container > .abt{
+    font-family: "Roboto Mono";
     border-bottom: 3px solid #49F3FF;
     display: flex;
     justify-content: space-between;
@@ -18,5 +19,5 @@
     color: #FFD21D;
     padding: 17px;
     margin: 0;
-  }
+  } */
   

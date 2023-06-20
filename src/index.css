@@ -175,7 +175,7 @@ span{
   justify-content: center;
 }
 .mod > div > h3{
-    font-family: "Roboto Mono";
+  font-family: "Roboto Mono";
   margin: 0;
   font-style: normal;
   font-weight: 400;
@@ -243,7 +243,7 @@ span{
     color: #8B0000;  
 }
 
-.sizes__container{
+/* .sizes__container{
     border: 3px solid #49F3FF;
     width: 705px;
     height: 403px;
@@ -287,5 +287,50 @@ span{
     color: #FFD21D;
     padding: 17px;
     margin: 0;
+  } */
+
+  .speeds__container{
+    border: 3px solid #49F3FF;
+    width: 705px;
+    height: 403px;
+    margin-bottom: 10px;
+  }
+  .speeds__container > .abt{
+    font-family: "Roboto Mono";
+    border-bottom: 3px solid #49F3FF;
+    display: flex;
+    justify-content: space-between;
+  }
+  .speeds__container > .abt > h1{
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFD21D;
+    padding: 17px;
+    margin: 0;
   }
   
+  .sizes__container{
+    border: 3px solid #49F3FF;
+    width: 705px;
+    height: 403px;
+    margin-bottom: 13px;
+  }
+  .sizes__container > .abt{
+    font-family: "Roboto Mono";
+    border-bottom: 3px solid #49F3FF;
+    display: flex;
+    justify-content: space-between;
+  }
+  .sizes__container > .abt > h1{
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFD21D;
+    padding: 17px;
+    margin: 0;
+  }
