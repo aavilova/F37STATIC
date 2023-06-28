@@ -111,9 +111,9 @@ input[type="checkbox"]:active {
 
 
 span{
-  font-family: 'amc100k';
+  /* font-family: 'Roboto Mono';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400; */
   font-size: 20px;
   line-height: 16px;
   color: #FFD21D;
@@ -141,9 +141,9 @@ span{
   border-bottom: 3px solid #49F3FF;
 }
 .output > .abt > h1{
-  font-family: "Roboto Mono";
+  /* font-family: "Roboto Mono";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400; */
   font-size: 20px;
   line-height: 20px;
   color: #FFD21D;
@@ -175,22 +175,22 @@ span{
   justify-content: center;
 }
 .mod > div > h3{
-  font-family: "Roboto Mono";
+  /* font-family: "Roboto Mono"; */
   margin: 0;
-  font-style: normal;
-  font-weight: 400;
+  /* font-style: normal;
+  font-weight: 400; */
   font-size: 20px;
   line-height: 16px;
   color: #8B0000;
 }
 
 .else > p{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono"; */
   margin: 0;
   padding: 8px;
   width: 418px;
-  font-style: normal;
-  font-weight: 400;
+  /* font-style: normal;
+  font-weight: 400; */
   font-size: 16px;
   line-height: 105%;
   color: #49F3FF;
@@ -198,9 +198,9 @@ span{
 }
 
 .else > h3{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400; */
   font-size: 20px;
   line-height: 16px;
   color: #FFD21D;
@@ -236,7 +236,7 @@ span{
     font-size: 20px;
     line-height: 18px;
     /* identical to box height */
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono"; */
     
     text-align: center;
     
@@ -296,15 +296,15 @@ span{
     margin-bottom: 10px;
   }
   .speeds__container > .abt{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono"; */
     border-bottom: 3px solid #49F3FF;
     display: flex;
     justify-content: space-between;
   }
   .speeds__container > .abt > h1{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono";
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400; */
     font-size: 20px;
     line-height: 20px;
     color: #FFD21D;
@@ -319,15 +319,15 @@ span{
     margin-bottom: 13px;
   }
   .sizes__container > .abt{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono"; */
     border-bottom: 3px solid #49F3FF;
     display: flex;
     justify-content: space-between;
   }
   .sizes__container > .abt > h1{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono";
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400; */
     font-size: 20px;
     line-height: 20px;
     color: #FFD21D;

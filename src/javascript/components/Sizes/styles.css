@@ -5,15 +5,15 @@
     margin-bottom: 13px;
   }
   .sizes__container > .abt{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono"; */
     border-bottom: 3px solid #49F3FF;
     display: flex;
     justify-content: space-between;
   }
   .sizes__container > .abt > h1{
-    font-family: "Roboto Mono";
+    /* font-family: "Roboto Mono";
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400; */
     font-size: 20px;
     line-height: 20px;
     color: #FFD21D;
